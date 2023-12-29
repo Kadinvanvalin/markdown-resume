@@ -6,72 +6,51 @@ margin-bottom: 2cm
 title: Your Resume in Markdown
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'javascript'
 author:
 - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[linkedin.com](https://www.linkedin.com/in/kadin-van-valin/)] . [ kadin@kadin.codes] . [ 517 574 9283 ]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+### Software engineer with 6+ years of experience delivering quality solutions at every layer of the technical stack. Skilled in full-stack web and mobile development, AWS, Agile methodology, and more. Seeking a challenging role where I can continue to grow my skills and collaborate with other passionate developers.
 
 ## Skills
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+```typescript```
+```aws cdk```
+```agile```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Software Engineer, CJ Affiliate
 
-start-date-end-date, City, State and remote
+April 2020-current, Chicago, IL and remote
 
-- Things you did/do here
-- More things that you do here.
+- maintain tracking tag that tracks 200 million events a day. 
+- Built cross-browser testing suite to support tracking tag.
+- Create a cloud based log of e-commerce transactions using AWS Opensearch, Lambda, Kinesis Stream, Kinesis Firehose and Kafka Connect.
+- Strong focus on infrastructure as code with AWSs CDK and terraform
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
-### Senior Software Architect, Hooli
+**Technologies used:** typescript, aws
 
-2010-2016, San Francisco, CA
+### Software Engineer, SnapMobile
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+April 2018-April 2020, Chicago, IL
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+- Built a fitness app with AWS CloudFront and MediaConvert for the video and music for each weekly adaptively streamed video
+- Created a prototype to alert friends and family with the triggering of a Bluetooth enabled pepper spray device.
 
-## Awards & Recognition
+**Technologies used:** Mongo, Express, Angular, Node, and Ionic.
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
 
 ## Education
 
-### Masters in BS, Example University
+### Course work in Economics, Lansing Community College
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+- 
+### Dev Bootcamp
+
+- Lead IOS project that let people have location/interest based conversations.
