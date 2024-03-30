@@ -20,8 +20,22 @@ subject: 'Subject'
 ```typescript```
 ```aws cdk```
 ```agile```
-
-
+```kotlin```
+```sbt```
+```scala```
+```aws (s3, lambda, fargate, opensearch, kinesis, route 53)```
+```system design```
+```top down design```
+```test driven development```
+```elasticsearch/opensearch```
+```react```
+```git```
+```github```
+```docker```
+```jenkins```
+```spark```
+```node.js```
+```kafka```
 ## Experience
 
 ### Software Engineer, CJ Affiliate
@@ -34,7 +48,6 @@ April 2020-current, Chicago, IL and remote
 - Strong focus on infrastructure as code with AWSs CDK and terraform
 
 
-**Technologies used:** typescript, aws
 
 ### Software Engineer, SnapMobile
 
