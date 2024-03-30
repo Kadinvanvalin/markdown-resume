@@ -65,5 +65,4 @@ April 2018-April 2020, Chicago, IL
 
 - 
 ### Dev Bootcamp
-
 - Lead IOS project that let people have location/interest based conversations.
