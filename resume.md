@@ -43,7 +43,7 @@ subject: 'Subject'
 
 April 2020-current, Chicago, IL and remote
 
-- maintain tracking tag that tracks 200 million events a day. 
+- Enhance **typescript** tracking tag with partner code that creates a cross-device map while mantaining performance for the core funcationality that tracks 200 million events a day.  
 - Built cross-browser testing suite to support tracking tag.
 - Create a cloud based log of e-commerce transactions using AWS Opensearch, Lambda, Kinesis Stream, Kinesis Firehose and Kafka Connect.
 - Strong focus on infrastructure as code with AWSs CDK and terraform
