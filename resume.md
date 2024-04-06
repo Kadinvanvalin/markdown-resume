@@ -23,11 +23,10 @@ subject: 'Subject'
 ```kotlin```
 ```sbt```
 ```scala```
-```aws (s3, lambda, fargate, opensearch, kinesis, route 53)```
+```aws (s3, lambda, fargate, elasticsearch/opensearch, kinesis, route 53)```
 ```system design```
 ```top down design```
 ```test driven development```
-```elasticsearch/opensearch```
 ```react```
 ```git```
 ```github```
@@ -48,7 +47,7 @@ April 2020-current, Chicago, IL and remote
 - Create a cloud based log of e-commerce transactions using AWS Opensearch, Lambda, Kinesis Stream, Kinesis Firehose and Kafka Connect.
 - Strong focus on infrastructure as code with AWSs CDK and terraform
 
-
+**Technologies used:** kafka, Node.js, aws (s3, lambda, fargate, opensearch, kinesis, route 53), kotlin, docker
 
 ### Software Engineer, SnapMobile
 
@@ -57,7 +56,7 @@ April 2018-April 2020, Chicago, IL
 - Built a fitness app with AWS CloudFront and MediaConvert for the video and music for each weekly adaptively streamed video
 - Created a prototype to alert friends and family with the triggering of a Bluetooth enabled pepper spray device.
 
-**Technologies used:** Mongo, Express, Angular, Node, and Ionic.
+**Technologies used:** Mongo, Express, Angular, Node.js, and Ionic.
 
 
 ## Education
