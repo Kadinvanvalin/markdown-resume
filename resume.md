@@ -13,7 +13,7 @@ subject: 'Subject'
 ---
 ###### [[linkedin.com](https://www.linkedin.com/in/kadin-van-valin/)] . [ kadin@kadin.codes] . [ 517 574 9283 ]
 
-### Software engineer with 6+ years of experience delivering quality solutions at every layer of the technical stack. Skilled in full-stack web and mobile development, AWS, Agile methodology, and more. Seeking a challenging role where I can continue to grow my skills and collaborate with other passionate developers.
+### Software engineer with 6+ years of experience delivering quality solutions at every layer of the technical stack. Skilled in full-stack web, AWS, Agile methodology, and more. Seeking a challenging role where I can continue to grow my skills and collaborate with other passionate developers.
 
 ## Skills
 
