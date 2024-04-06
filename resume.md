@@ -64,6 +64,6 @@ April 2018-April 2020, Chicago, IL
 
 ### Course work in Economics, Lansing Community College
 
-- 
+ 
 ### Dev Bootcamp
 - Lead IOS project that let people have location/interest based conversations.
