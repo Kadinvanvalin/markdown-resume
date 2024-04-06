@@ -18,7 +18,8 @@ subject: 'Subject'
 Experienced software engineer with a track record of delivering quality solutions across the technical stack. Skilled in full-stack web development, AWS, Agile methodology, and more. Seeking a challenging role to further develop skills and collaborate with passionate developers.
 
 ## Skills{#someid}
-- TypeScript{#typescript}
+{#skills}
+- TypeScript
 - AWS CDK
 - Agile Methodology
 - Kotlin
