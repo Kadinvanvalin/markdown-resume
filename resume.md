@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: Kadin Van Valin
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
   - 'javascript'
@@ -36,6 +36,7 @@ subject: 'Subject'
 ```spark```
 ```node.js```
 ```kafka```
+
 ## Experience
 
 ### Software Engineer, CJ Affiliate
