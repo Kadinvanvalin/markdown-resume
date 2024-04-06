@@ -17,23 +17,6 @@ subject: 'Subject'
 
 Experienced software engineer with a track record of delivering quality solutions across the technical stack. Skilled in full-stack web development, AWS, Agile methodology, and more. Seeking a challenging role to further develop skills and collaborate with passionate developers.
 
-## Skills {#skills}
-- TypeScript
-- AWS CDK
-- Agile Methodology
-- Kotlin
-- Scala
-- System Design
-- Test-Driven Development
-- React
-- Git
-- GitHub
-- Docker
-- Jenkins
-- Spark
-- Node.js
-- Kafka
-
 ## Experience
 
 ### Software Engineer, CJ Affiliate
@@ -59,3 +42,20 @@ April 2018 - April 2020 | Chicago, IL
 
 - Coursework in Economics, Lansing Community College
 - Dev Bootcamp, Lead iOS project focusing on location/interest-based conversations
+
+## Skills {#skills}
+- TypeScript
+- AWS CDK
+- Agile Methodology
+- Kotlin
+- Scala
+- System Design
+- Test-Driven Development
+- React
+- Git
+- GitHub
+- Docker
+- Jenkins
+- Spark
+- Node.js
+- Kafka
